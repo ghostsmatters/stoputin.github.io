@@ -1,10 +1,10 @@
 #StopWarNow - The Digital way
 
-<a href="https://stoputin.github.io/">
+<a href="https://ghostsmatters.github.io/stoputin.github.io/">
 <img src="banner.png" width="435">
 </a>
 
-URL: https://stoputin.github.io/
+URL: https://ghostsmatters.github.io/stoputin.github.io/
 
 ## What is this?
 
