@@ -26,4 +26,4 @@ Absolutely.
 A: No, we do not know who you are using our tool and we do not share it with any 3rd party.
 
 ### How can I suggest new targets?
-A: Please email ghostsmatters@protonmail.com
+A: Please send an email to ghostsmatters@protonmail.com
