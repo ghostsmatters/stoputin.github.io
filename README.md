@@ -10,7 +10,7 @@ URL: https://ghostsmatters.github.io/stoputin.github.io/
 
 This site has been inspired by the Ukraine government’s call for IT professionals to help assist against the disruption of Russian propaganda.
 
-Built by technology professionals, motivated to use their skills to help support the Ukraine, and find a way to allow non-technical people to help support the cause. It a site that allows anyone with a web browser and internet connectivity to easily participate in disabling and blocking key Russian propaganda sites and services supporting the [Russian invasion of Ukraine](https://en.wikipedia.org/wiki/Russo-Ukrainian_War).
+Built by technology professionals, motivated to use their skills to help support the Ukraine, and find a way to allow non-technical people to help support the cause. It'S a site that allows anyone with a web browser and internet connectivity to easily participate in disabling and blocking key Russian propaganda sites and services supporting the [Russian invasion of Ukraine](https://en.wikipedia.org/wiki/Russo-Ukrainian_War).
 
 It is simple. Anyone with a web browser, and internet connectivity can participate and show your support. Simply click the Launch button and leave this running in the background whilst most of us go safely about our days.
 
