@@ -1,7 +1,7 @@
 #StopWarNow - The Digital way
 
 <a href="https://stoputin.github.io/">
-<img src="doc/banner.png" width="435">
+<img src="banner.png" width="435">
 </a>
 
 URL: https://stoputin.github.io/
